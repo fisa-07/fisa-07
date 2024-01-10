@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Core Java, Android Development**
 
-- 📝 I regularly write articles on [C/C++, Core Java](C/C++, Core Java)
-
 - 💬 Ask me about **Android Development, Core Java**
 
 - 📫 How to reach me **asifsonu174@gmail.com**
